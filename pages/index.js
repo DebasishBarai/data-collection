@@ -12,7 +12,11 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1>This is a website designed for data collection process</h1>
+        <h1>
+          This is a website designed to make data collection and review jobs
+          easier
+        </h1>
+        <h2>Log in to continue</h2>
       </main>
     </div>
   );
